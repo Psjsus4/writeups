@@ -1,0 +1,5 @@
+services:
+  blind-date:
+    image: anssi/fcsc2021-pwn-blind-date:latest
+    ports:
+      - "4000:4000"
